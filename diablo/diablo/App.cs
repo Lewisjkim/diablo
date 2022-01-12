@@ -10,7 +10,7 @@ namespace diablo
     {
         public App()
         {
-
+            Console.WriteLine("Hello World");
         }
     }
 }
